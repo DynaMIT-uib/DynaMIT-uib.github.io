@@ -15,7 +15,7 @@ team:
 
   - name: Fasil Tesema
     role: Researcher
-    image: # assets/theme/images/Margot.jpg # Can be external link
+    image: assets/theme/images/Fasil.png # Can be external link
     description: >
       Magnetosphere / ionosphere, data analysis, data assimilation
 
