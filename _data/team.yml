@@ -1,41 +1,66 @@
 # Project team members listed below will appear on the /team page
 
 team:
-  - name: Karl Magnus Laundal is a pain here?
-    role: Delivery boy # Will appear next to name
+  - name: Karl M. Laundal 
+    role: PI, research professor # Will appear next to name
     image: assets/theme/images/Kalle_square400_400.jpg # Can be external link
     description: > # Can be Markdown
-      Protagonist, from the 20th century. Many times great-uncle to King Charles III.
+      Magnetosphere / ionosphere physics, magnetosphere-ionosphere coupling, data analysis, model development, EZIE, EISCAT3D
     orcid: 0000-0001-5028-4943
-    # researchgate: researchgate_username
-    # googlescholar: googlescholar_username
+    googlescholar: kZ-B-QQAAAAJ&hl
     # twitter: twitter_username
     mastodon: https://mastodon.social/@klaundal
     github: klaundal
     email: Karl.Laundal@uib.no
 
+  - name: Fasil Tesema
+    role: Researcher
+    image: # assets/theme/images/Margot.jpg # Can be external link
+    description: >
+      Magnetosphere / ionosphere, data analysis, data assimilation
+
+  - name: Beatrice Popescu Braileanu
+    role: Researcher
+    image:# assets/theme/images/Margot.jpg # Can be external link
+    description: >
+      Solar physics, Magnetosphere / ionosphere, model development
+
+  - name: Andreas Sæther Skeidsvoll
+    role: Researcher
+    image: #assets/theme/images/Margot.jpg # Can be external link
+    description: >
+      Magnetosphere / ionosphere, model development
+
+  - name: Michael Madelaire
+    role: Post-doc
+    image: #assets/theme/images/Margot.jpg # Can be external link
+    description: >
+      Magnetosphere / ionosphere, data analysis, data assimilation, EZIE, Danish
+
   - name: Margot Decotte
-    role: Captain
+    role: Researcher
     image: assets/theme/images/Margot.jpg # Can be external link
     description: >
-      Mutant cyclops. Margot is spaceship captain, pilot, and head of all 
-      aviation services on board the [Planet Express Ship](https://en.wikipedia.org/wiki/Planet_Express_Ship). 
+      Magnetosphere / ionosphere, data analysis, data assimilation, aurora, French
 
-  - name: King Charles III
-    role: Accountant
-    image: assets/theme/images/King.jpg
+  - name: Spencer Hatch
+    role: Researcher
+    image: #assets/theme/images/Margot.jpg # Can be external link
     description: >
-      Many times great-nephew of Karl.
+      Magnetosphere / ionosphere, data analysis, data assimilation, EISCAT3D
+
+   
+
 
 associations:
   - name: Hilde Nesse
-    role: Partner
+    role: Associate professor
     image: assets/theme/images/HildeNesse.jpg
     description: >
-      Something Something. 
+      Magnetosphere / ionosphere physics, energetic particle precipitation
 
   - name: Kjellmar Oksavik
-    role: Partner
+    role: Professor
     image: assets/theme/images/Kjellmar.jpg
     description: >
-      Something Something
+      Magnetosphere / ionosphere physics, EISCAT3D, SMILE
