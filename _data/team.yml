@@ -18,6 +18,7 @@ team:
     image: assets/theme/images/Fasil.png # Can be external link
     description: >
       Magnetosphere / ionosphere, data analysis, data assimilation
+    orcid: 0000-0002-5978-6955
     email: fasil.kebede@uib.no
 
   - name: Beatrice Popescu Braileanu
@@ -25,6 +26,7 @@ team:
     image: # assets/theme/images/Margot.jpg # Can be external link
     description: >
       Solar physics, Magnetosphere / ionosphere, model development
+    orcid: 0000-0001-5447-5456
     email: beatrice.braileanu@uib.no
       
   - name: Andreas Sæther Skeidsvoll
@@ -32,6 +34,7 @@ team:
     image: #assets/theme/images/Margot.jpg # Can be external link
     description: >
       Magnetosphere / ionosphere, model development
+    orcid: 0000-0001-7515-9436
     email: andreas.skeidsvoll@uib.no
 
   - name: Michael Madelaire
@@ -39,6 +42,7 @@ team:
     image: #assets/theme/images/Margot.jpg # Can be external link
     description: >
       Magnetosphere / ionosphere, data analysis, data assimilation, EZIE, Danish
+    orcid: 0000-0002-5631-7344
     email: michael.madelaire@uib.no
 
   - name: Margot Decotte
@@ -46,6 +50,7 @@ team:
     image: assets/theme/images/Margot.jpg # Can be external link
     description: >
       Magnetosphere / ionosphere, data analysis, data assimilation, aurora, French sacrebleu
+    orcid: 0000-0001-7455-8734
     email: margot.decotte@uib.no
 
   - name: Spencer Hatch
@@ -53,6 +58,7 @@ team:
     image: assets/theme/images/Spencer.jpg # Can be external link
     description: >
       Magnetosphere / ionosphere, data analysis, data assimilation, EISCAT3D
+    orcid: 0000-0001-7412-4936
     email: spencer.hatch@uib.no
    
 
@@ -71,3 +77,10 @@ associations:
     description: >
       Magnetosphere / ionosphere physics, EISCAT3D, SMILE
     email: kjellmar.oksavik@uib.no
+
+
+
+extassociations:
+  - name: King Charles?
+
+  - name: Sacrebleu
