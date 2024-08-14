@@ -69,6 +69,8 @@ associations:
     image: assets/theme/images/HildeNesse.jpg
     description: >
       Magnetosphere / ionosphere physics, energetic particle precipitation
+    orcid: 0000-0002-4178-8717
+    googlescholar: PLddEKv0kSQC&hl
     email: hilde.nesse@uib.no
 
   - name: Kjellmar Oksavik
@@ -76,11 +78,14 @@ associations:
     image: assets/theme/images/Kjellmar.jpg
     description: >
       Magnetosphere / ionosphere physics, EISCAT3D, SMILE
+    orcid: 0000-0003-4312-6992
+    googlescholar: e5ruDWEAAAAJ
     email: kjellmar.oksavik@uib.no
 
 
 
 extassociations:
   - name: King Charles?
+    image: assets/theme/images/King.jpg
 
   - name: Sacrebleu

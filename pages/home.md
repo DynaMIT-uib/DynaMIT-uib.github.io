@@ -10,10 +10,6 @@ permalink: /
 
 DynaMIT addresses a fundamental misunderstanding of how Earth is coupled to space in the polar ionosphere. Here, the neutral atmosphere collides with charged particles influenced by electromagnetic fields, profoundly impacting the dynamics of the atmosphere and its surroundings. Despite being the best instrumented region of space, our understanding of Earth's ionosphere is severely limited. The current paradigm contains two crippling assumptions - that the ionosphere is purely two-dimensional and that it remains in a steady state. This conceptualisation obscures the complex interplay of forces that change the fluids and electromagnetic fields in both regions. This prevents us from accurately understanding phenomena, such as the aurora polaris, that have been observed and studied from ground for centuries. To advance beyond the state of the art we must transition to a dynamic view of space-atmosphere coupling. This project will apply first principles to model how the neutral atmosphere, plasma, and electromagnetic fields interact.
 
-<br><br>
-
-Check [Archive](https://dynamit-uib.github.io/blog/) for more news and posts. 
-
 <!-- ## Installation
 
 See the demo website for instructions:
