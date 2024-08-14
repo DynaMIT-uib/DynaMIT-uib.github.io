@@ -45,7 +45,7 @@ team:
 
   - name: Spencer Hatch
     role: Researcher
-    image: #assets/theme/images/Margot.jpg # Can be external link
+    image: assets/theme/images/Spencer.jpg # Can be external link
     description: >
       Magnetosphere / ionosphere, data analysis, data assimilation, EISCAT3D
 
