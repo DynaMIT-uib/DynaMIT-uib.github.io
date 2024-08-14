@@ -11,8 +11,8 @@ repository: https://github.com/DynaMIT-uib/DynaMIT-uib.github.io        # Specif
 social:
   email: Karl.Laundal@uib.no
 #  twitter: peterdesmet
-  github: https://github.com/DynaMIT-uib # Can also be a github_username/repository
-#  mastodon: https://mastodon.social/@mastodon_username
+  github: DynaMIT-uib # Can also be a github_username/repository
+  mastodon: https://mastodon.social/@klaundal
 #  facebook:                             # A URL
 #  disqus: disqus_sitename               # Enable Disqus comments from disqus_sitename.disqus.com
 
