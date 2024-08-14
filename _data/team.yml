@@ -27,6 +27,7 @@ team:
     description: >
       Solar physics, Magnetosphere / ionosphere, model development
     orcid: 0000-0001-5447-5456
+    googlescholar: 2jFUTawAAAAJ
     email: beatrice.braileanu@uib.no
       
   - name: Andreas Sæther Skeidsvoll
@@ -59,6 +60,7 @@ team:
     description: >
       Magnetosphere / ionosphere, data analysis, data assimilation, EISCAT3D
     orcid: 0000-0001-7412-4936
+    googlescholar: 7BcjW0cAAAAJ&hl
     email: spencer.hatch@uib.no
    
 
@@ -87,5 +89,3 @@ associations:
 extassociations:
   - name: King Charles?
     image: assets/theme/images/King.jpg
-
-  - name: Sacrebleu

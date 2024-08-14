@@ -5,8 +5,6 @@ background: /assets/theme/images/NorthernLightISS3.jpg
 permalink: /Publications/
 ---
 
-** To add publications, edit pages/Publications.md **
-
 <!-- To do: find out how to open link in a new page  -->
 
 - Laundal, K. M., Hatch, S. M., Reistad, J. P., Ohma, A., Tenfjord, P., & Madelaire, M. (2024). **How the ionosphere responds dynamically to magnetospheric forcing.** Geophysical Research Letters, 51, e2024GL108695. [https://doi.org/10.1029/2024GL108695](https://doi.org/10.1029/2024GL108695)
