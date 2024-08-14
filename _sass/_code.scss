@@ -1,0 +1,17 @@
+// code members
+
+.code-member {
+  margin-bottom: $grid-gutter-width;
+
+  // Image container
+  .flex-shrink-0 {
+    width: 300px; // Change this to push the text to left or right (The value depends on the image size)
+    
+    img {
+      height: 300px;
+      width: 300px;
+      border: 1px solid $gray-200;
+      border-radius: 10px; // use 100 px to make the border a circle
+    }
+  }
+}

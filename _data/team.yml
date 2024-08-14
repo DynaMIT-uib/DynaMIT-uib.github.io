@@ -1,0 +1,41 @@
+# Project team members listed below will appear on the /team page
+
+team:
+  - name: Karl Magnus Laundal is a pain here?
+    role: Delivery boy # Will appear next to name
+    image: assets/theme/images/Kalle_square400_400.jpg # Can be external link
+    description: > # Can be Markdown
+      Protagonist, from the 20th century. Many times great-uncle to King Charles III.
+    orcid: 0000-0001-5028-4943
+    # researchgate: researchgate_username
+    # googlescholar: googlescholar_username
+    # twitter: twitter_username
+    mastodon: https://mastodon.social/@klaundal
+    github: klaundal
+    email: Karl.Laundal@uib.no
+
+  - name: Margot Decotte
+    role: Captain
+    image: assets/theme/images/Margot.jpg # Can be external link
+    description: >
+      Mutant cyclops. Margot is spaceship captain, pilot, and head of all 
+      aviation services on board the [Planet Express Ship](https://en.wikipedia.org/wiki/Planet_Express_Ship). 
+
+  - name: King Charles III
+    role: Accountant
+    image: assets/theme/images/King.jpg
+    description: >
+      Many times great-nephew of Karl.
+
+associations:
+  - name: Hilde Nesse
+    role: Partner
+    image: assets/theme/images/HildeNesse.jpg
+    description: >
+      Something Something. 
+
+  - name: Kjellmar Oksavik
+    role: Partner
+    image: assets/theme/images/Kjellmar.jpg
+    description: >
+      Something Something

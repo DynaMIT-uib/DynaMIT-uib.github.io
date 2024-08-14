@@ -1,0 +1,42 @@
+# Project team members listed below will appear on the /team page
+
+code:
+  - name: DynaMIT_1D
+    role: Want something here? Edit data/code.yml.
+    image: assets/theme/images/dynamit.png # Can be external link
+    description: > # Can be Markdown
+      Image size can be adjusted in _sass/_Code.scss
+
+
+      Add description in data/code.yml
+
+
+      [https://github.com/DynaMIT-uib/DynaMIT_1D](https://github.com/DynaMIT-uib/DynaMIT_1D)
+    # researchgate: researchgate_username
+    # googlescholar: googlescholar_username
+    # twitter: twitter_username
+    # mastodon: https://mastodon.social/@klaundal
+    # github: klaundal
+    # email: Karl.Laundal@uib.no
+
+  - name: Lompe
+    image: assets/theme/images/lompe.png # Can be external link
+    description: >
+      Image size can be adjusted in _sass/_Code.scss
+
+
+      Add description in data/code.yml
+
+
+      [https://github.com/klaundal/lompe](https://github.com/klaundal/lompe)
+
+  - name: PyAMPS
+    image: assets/theme/images/pyamps.png # Can be external link
+    description: >
+      Image size can be adjusted in _sass/_Code.scss
+
+
+      Add description in data/code.yml
+
+      
+      [https://github.com/klaundal/pyamps](https://github.com/klaundal/pyamps)

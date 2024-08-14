@@ -1,9 +1,7 @@
 ---
-title: Projects
-description: Associated projects
-background: /assets/images/banner_background_image.jpg
-permalink: /projects/
-toc: false
-comments: false # See posts
-published: true # See posts
+layout: Projects
+title: Associated projects
+description: ...
+background: /assets/theme/images/NorthernLightISS3.jpg
+permalink: /Projects/
 ---
