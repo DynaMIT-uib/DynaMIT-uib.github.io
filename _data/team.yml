@@ -45,7 +45,7 @@ team:
     role: Researcher
     image: assets/theme/images/Margot.jpg # Can be external link
     description: >
-      Magnetosphere / ionosphere, data analysis, data assimilation, aurora, French
+      Magnetosphere / ionosphere, data analysis, data assimilation, aurora, French sacrebleu
     email: margot.decotte@uib.no
 
   - name: Spencer Hatch
