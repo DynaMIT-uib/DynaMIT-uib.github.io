@@ -63,9 +63,11 @@ associations:
     image: assets/theme/images/HildeNesse.jpg
     description: >
       Magnetosphere / ionosphere physics, energetic particle precipitation
+    email: hilde.nesse@uib.no
 
   - name: Kjellmar Oksavik
     role: Professor
     image: assets/theme/images/Kjellmar.jpg
     description: >
       Magnetosphere / ionosphere physics, EISCAT3D, SMILE
+    email: kjellmar.oksavik@uib.no
