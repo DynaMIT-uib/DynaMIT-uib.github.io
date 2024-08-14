@@ -21,7 +21,7 @@ team:
 
   - name: Beatrice Popescu Braileanu
     role: Researcher
-    image:# assets/theme/images/Margot.jpg # Can be external link
+    image: # assets/theme/images/Margot.jpg # Can be external link
     description: >
       Solar physics, Magnetosphere / ionosphere, model development
 
