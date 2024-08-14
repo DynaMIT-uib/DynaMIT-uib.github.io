@@ -18,37 +18,42 @@ team:
     image: assets/theme/images/Fasil.png # Can be external link
     description: >
       Magnetosphere / ionosphere, data analysis, data assimilation
+    email: fasil.kebede@uib.no
 
   - name: Beatrice Popescu Braileanu
     role: Researcher
     image: # assets/theme/images/Margot.jpg # Can be external link
     description: >
       Solar physics, Magnetosphere / ionosphere, model development
-
+    email: beatrice.braileanu@uib.no
+      
   - name: Andreas Sæther Skeidsvoll
     role: Researcher
     image: #assets/theme/images/Margot.jpg # Can be external link
     description: >
       Magnetosphere / ionosphere, model development
+    email: andreas.skeidsvoll@uib.no
 
   - name: Michael Madelaire
     role: Post-doc
     image: #assets/theme/images/Margot.jpg # Can be external link
     description: >
       Magnetosphere / ionosphere, data analysis, data assimilation, EZIE, Danish
+    email: michael.madelaire@uib.no
 
   - name: Margot Decotte
     role: Researcher
     image: assets/theme/images/Margot.jpg # Can be external link
     description: >
       Magnetosphere / ionosphere, data analysis, data assimilation, aurora, French
+    email: margot.decotte@uib.no
 
   - name: Spencer Hatch
     role: Researcher
     image: assets/theme/images/Spencer.jpg # Can be external link
     description: >
       Magnetosphere / ionosphere, data analysis, data assimilation, EISCAT3D
-
+    email: spencer.hatch@uib.no
    
 
 
