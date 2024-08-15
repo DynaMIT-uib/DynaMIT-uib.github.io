@@ -2,13 +2,13 @@
 
 code:
   - name: DynaMIT_1D
-    role: [https://github.com/DynaMIT-uib/DynaMIT_1D](https://github.com/DynaMIT-uib/DynaMIT_1D)
+    role: https://github.com/DynaMIT-uib/DynaMIT_1D
     image: assets/theme/images/dynamit.png # Can be external link
     description: | # Can be Markdown
       Code to reproduce the simulations and figures in Laundal, K. M., Hatch, S. M., Reistad, J. P., Ohma, A., Tenfjord, P., & Madelaire, M. (2024). How the ionosphere responds dynamically to magnetospheric forcing. Geophysical Research Letters, 51, e2024GL108695. [https://doi.org/10.1029/2024GL108695](https://doi.org/10.1029/2024GL108695)
 
   - name: Lompe
-    role: [https://github.com/klaundal/lompe](https://github.com/klaundal/lompe)
+    role: https://github.com/klaundal/lompe
     image: assets/theme/images/lompe.png # Can be external link
     description: |
       Code for using the Local mapping of polar ionospheric electrodynamics (Lompe) technique. 
@@ -17,11 +17,10 @@ code:
       - Hovland, A. Ø., Laundal, K. M., Reistad, J. P., Hatch, S. M., Walker, S. J., Madelaire, M., & Ohma, A. (2022). The Lompe code: A Python toolbox for ionospheric data analysis. *Front. Astron. Space Sci.*, 9:1025823. [https://doi.org/10.3389/fspas.2022.1025823](https://doi.org/10.3389/fspas.2022.1025823)
       - Laundal, K. M., Reistad, J. P., Hatch, S. M., Madelaire, M., Walker, S., Hovland, A. Ø., Ohma, A., Merkin, V. G., & Sorathia, K. A. (2022b). Local mapping of polar ionospheric electrodynamics. *Journal of Geophysical Research: Space Physics*. [https://doi.org/10.1029/2022JA030356](https://doi.org/10.1029/2022JA030356)
 
-
   - name: PyAMPS
-    role: [https://github.com/klaundal/pyamps](https://github.com/klaundal/pyamps)
+    role: https://github.com/klaundal/pyamps
     image: assets/theme/images/pyamps.png # Can be external link
     description: |
       AMPS (Average Magnetic Field and Polar current System) is an empirical model of the global ionospheric magnetic field and current system, based on measurements from ESA's Swarm satellites. PI: Karl Laundal. [Web app](https://pyamps.uib.no/)
 
-      Main AMPS paper: Laundal, K. M., Finlay, C. C., Olsen, N. & Reistad, J. P. (2018), Solar wind and seasonal influence on ionospheric currents from Swarm and CHAMP measurements, Journal of Geophysical Research - Space Physics. [doi:10.1029/2018JA025387](https://doi.org/doi:10.1029/2018JA025387)     
+      Main AMPS paper: Laundal, K. M., Finlay, C. C., Olsen, N. & Reistad, J. P. (2018), Solar wind and seasonal influence on ionospheric currents from Swarm and CHAMP measurements, Journal of Geophysical Research - Space Physics. [doi:10.1029/2018JA025387](https://doi.org/10.1029/2018JA025387)
