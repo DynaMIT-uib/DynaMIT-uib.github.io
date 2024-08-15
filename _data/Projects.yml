@@ -4,7 +4,7 @@ Projects:
   - name: EZIE
     role: Electrojet Zeeman Imaging Explorer
     image: assets/theme/images/ezie.jpg # Can be external link
-    description: > # Can be Markdown
+    description: | # Can be Markdown
       EZIE (Electrojet Zeeman Imaging Explorer) is a NASA satellite mission to study the auroral electrojets. EZIE is led by Sam Yee at Johns Hopkins University Applied Physics Laboratory. [EZIE webpage](https://ezie.jhuapl.edu/). 
       
       Selected publications:
@@ -15,7 +15,7 @@ Projects:
   - name: Trond Mohn Foundation
     role: Starting Grant - What Shapes Space?
     image: assets/theme/images/tms.jpg # Can be external link
-    description: >
+    description: |
       Awarded to Karl Laundal in 2019. The project will end in 2025. 
 
       Selected publications:
@@ -35,7 +35,7 @@ Projects:
   - name: Swarm
     role: The AMPS and SWIPE models
     image: assets/theme/images/swarm.jpg
-    description: >
+    description: |
        We have developed two data products for the Swarm mission with funding from [Swarm DISC](https://swarmdisc.org/):
        - AMPS (Average Magnetic Field and Polar current System) is an empirical model of the global ionospheric magnetic field and current system, based on measurements from ESA's Swarm satellites. PI: Karl Laundal. [Python code](https://github.com/klaundal/pyamps). [Web app](https://pyamps.uib.no/)
        - SWIPE (Swarm Ionospheric Polar Electrodynamics) is an empirical model that combines AMPS with a model of the electric field, called Swarm Hi-C, to derive ionospheric electrodynamic parameters. PI: Spencer Hatch. [Python code](https://github.com/Dartspacephysiker/pyswipe)
