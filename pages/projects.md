@@ -1,7 +1,7 @@
 ---
 layout: Projects
 title: Associated projects
-description: ...
+description: 
 background: /assets/theme/images/NorthernLightISS3.jpg
 permalink: /Projects/
 ---
