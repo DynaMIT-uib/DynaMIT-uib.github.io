@@ -2,41 +2,27 @@
 
 code:
   - name: DynaMIT_1D
-    role: Want something here? Edit data/code.yml.
+    role: [https://github.com/DynaMIT-uib/DynaMIT_1D](https://github.com/DynaMIT-uib/DynaMIT_1D)
     image: assets/theme/images/dynamit.png # Can be external link
-    description: > # Can be Markdown
-      Image size can be adjusted in _sass/_Code.scss
-
-
-      Add description in data/code.yml
-
-
-      [https://github.com/DynaMIT-uib/DynaMIT_1D](https://github.com/DynaMIT-uib/DynaMIT_1D)
-    # researchgate: researchgate_username
-    # googlescholar: googlescholar_username
-    # twitter: twitter_username
-    # mastodon: https://mastodon.social/@klaundal
-    # github: klaundal
-    # email: Karl.Laundal@uib.no
+    description: | # Can be Markdown
+      Code to reproduce the simulations and figures in Laundal, K. M., Hatch, S. M., Reistad, J. P., Ohma, A., Tenfjord, P., & Madelaire, M. (2024). How the ionosphere responds dynamically to magnetospheric forcing. Geophysical Research Letters, 51, e2024GL108695. [https://doi.org/10.1029/2024GL108695](https://doi.org/10.1029/2024GL108695)
 
   - name: Lompe
+    role: [https://github.com/klaundal/lompe](https://github.com/klaundal/lompe)
     image: assets/theme/images/lompe.png # Can be external link
-    description: >
-      Image size can be adjusted in _sass/_Code.scss
+    description: |
+      Code for using the Local mapping of polar ionospheric electrodynamics (Lompe) technique. 
 
+      Two Lompe papers:
+      - Hovland, A. Ø., Laundal, K. M., Reistad, J. P., Hatch, S. M., Walker, S. J., Madelaire, M., & Ohma, A. (2022). The Lompe code: A Python toolbox for ionospheric data analysis. *Front. Astron. Space Sci.*, 9:1025823. [https://doi.org/10.3389/fspas.2022.1025823](https://doi.org/10.3389/fspas.2022.1025823)
+      - Laundal, K. M., Reistad, J. P., Hatch, S. M., Madelaire, M., Walker, S., Hovland, A. Ø., Ohma, A., Merkin, V. G., & Sorathia, K. A. (2022b). Local mapping of polar ionospheric electrodynamics. *Journal of Geophysical Research: Space Physics*. [https://doi.org/10.1029/2022JA030356](https://doi.org/10.1029/2022JA030356)
 
-      Add description in data/code.yml
-
-
-      [https://github.com/klaundal/lompe](https://github.com/klaundal/lompe)
 
   - name: PyAMPS
     image: assets/theme/images/pyamps.png # Can be external link
-    description: >
-      Image size can be adjusted in _sass/_Code.scss
+    role: [https://github.com/klaundal/pyamps](https://github.com/klaundal/pyamps)
+    description: |
+      AMPS (Average Magnetic Field and Polar current System) is an empirical model of the global ionospheric magnetic field and current system, based on measurements from ESA's Swarm satellites. PI: Karl Laundal. [Web app](https://pyamps.uib.no/)
 
-
-      Add description in data/code.yml
-
-      
-      [https://github.com/klaundal/pyamps](https://github.com/klaundal/pyamps)
+      Main AMPS paper: Laundal, K. M., Finlay, C. C., Olsen, N. & Reistad, J. P. (2018), Solar wind and seasonal influence on ionospheric currents from Swarm and CHAMP measurements, Journal of Geophysical Research - Space Physics. [doi:10.1029/2018JA025387](https://doi.org/doi:10.1029/2018JA025387)     
+ 
