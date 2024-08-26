@@ -46,3 +46,18 @@ Projects:
        - Hatch, S. M., Laundal, K. M., & Reistad, J. P. (2022). Testing the mirror symmetry of Birkeland and ionospheric currents with respect to magnetic latitude, dipole tilt angle, and IMF By. *Front. Astron. Space Sci.*, 9:958977. [https://doi.org/10.3389/fspas.2022.958977](https://doi.org/10.3389/fspas.2022.958977)
        - Laundal, K. M., Finlay, C. C., Olsen, N. & Reistad, J. P. (2018), Solar wind and seasonal influence on ionospheric currents from Swarm and CHAMP measurements, Journal of Geophysical Research - Space Physics. [doi:10.1029/2018JA025387](https://doi.org/doi:10.1029/2018JA025387)
 
+  - name: E3DBRITE
+    role: The E3D-BRITE project
+    image: assets/theme/images/e3dbrite.png
+    description: |
+       Awarded to Spencer Hatch in 2023. We are developing tools for reconstruction of ionosphere-thermosphere electrodynamics on the basis of EISCAT_3D measurements with funding from the [Research Council of Norway](https://prosjektbanken.forskningsradet.no/en/project/FORISS/344061?Kilde=FORISS&distribution=Ar&chart=bar&calcType=funding&Sprak=no&sortBy=date&sortOrder=desc&resultCount=30&offset=0&Geografi.2=Kongsberg&source=FORISS&projectId=341078) over a four-year period, 2024–2028. [Project website on CRISTIN](https://app.cristin.no/projects/show.jsf?id=2713925) 
+
+       Publications (so far):
+       - Reistad, J. P., Hatch, S. M., Laundal, K. M., Oksavik, K., Zettergren, M., Vanhamäki, H., & Virtanen, I. (2024). Volumetric Reconstruction of Ionospheric Electric Currents From Tri‐Static Incoherent Scatter Radar Measurements. Journal of Geophysical Research: Space Physics, 129(8). [https://doi.org/10.1029/2024JA032744](https://doi.org/10.1029/2024JA032744)
+
+       Code:
+       - E3DSECS - Tool to perform volumetric reconstruction of electric current density. [Github](https://github.com/jpreistad/e3dsecs)
+       - EISCAT_3D Uncertainty Estimation (e3doubt) - a toolbox for EISCAT_3D experiment design and uncertainty estimation. [Github](https://github.com/Dartspacephysiker/e3doubt)
+       
+
+
