@@ -27,7 +27,7 @@ code:
 
   - name: pySwipe
     role: https://github.com/Dartspacephysiker/pyswipe
-    image: https://github.com/Dartspacephysiker/pyswipe/blob/master/docs/static/example_plot.png # Can be external link
+    image: https://github.com/Dartspacephysiker/pyswipe/blob/master/docs/static/example_plot.png?raw=true # Can be external link
     description: |
       Swipe (Swarm Ionospheric Polar Electrodynamics) is an empirical model of the high-latitude ionospheric electrodynamics, based on measurements from ESA's Swarm satellites. PI: Spencer Hatch.
 
