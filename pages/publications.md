@@ -1,6 +1,6 @@
 ---
 title: Publications
-description: Our amazing papers (can be edited in pages/Publications.md)
+description: DynaMIT project publications
 background: /assets/theme/images/NorthernLightISS3.jpg
 permalink: /Publications/
 ---
