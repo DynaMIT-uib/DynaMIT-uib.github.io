@@ -5,7 +5,9 @@ code:
     role: https://github.com/DynaMIT-uib/DynaMIT_1D
     image: assets/theme/images/dynamit.png # Can be external link
     description: | # Can be Markdown
-      Code to reproduce the simulations and figures in Laundal, K. M., Hatch, S. M., Reistad, J. P., Ohma, A., Tenfjord, P., & Madelaire, M. (2024). How the ionosphere responds dynamically to magnetospheric forcing. Geophysical Research Letters, 51, e2024GL108695. [https://doi.org/10.1029/2024GL108695](https://doi.org/10.1029/2024GL108695)
+      Code to reproduce the simulations and figures in 
+
+      Laundal, K. M., Hatch, S. M., Reistad, J. P., Ohma, A., Tenfjord, P., & Madelaire, M. (2024). How the ionosphere responds dynamically to magnetospheric forcing. Geophysical Research Letters, 51, e2024GL108695. [https://doi.org/10.1029/2024GL108695](https://doi.org/10.1029/2024GL108695)
 
   - name: Lompe
     role: https://github.com/klaundal/lompe
@@ -21,7 +23,7 @@ code:
     role: https://github.com/klaundal/pyamps
     image: assets/theme/images/pyamps.png # Can be external link
     description: |
-      AMPS (Average Magnetic Field and Polar current System) is an empirical model of the global ionospheric magnetic field and current system, based on measurements from ESA's Swarm satellites. PI: Karl Laundal. [Web app](https://pyamps.uib.no/)
+      AMPS (Average Magnetic Field and Polar current System) is an empirical model of the global ionospheric magnetic field and current system, based on measurements from ESA's Swarm satellites. PI: Karl Laundal. [Click here to go to web app](https://pyamps.uib.no/)
 
       Main AMPS paper: Laundal, K. M., Finlay, C. C., Olsen, N. & Reistad, J. P. (2018), Solar wind and seasonal influence on ionospheric currents from Swarm and CHAMP measurements, Journal of Geophysical Research - Space Physics. [doi:10.1029/2018JA025387](https://doi.org/10.1029/2018JA025387)
 
