@@ -11,6 +11,7 @@ permalink: /
 DynaMIT will address two limiting assumptions in current ionosphere models:
 - That the ionosphere is two-dimensional.
 - That the ionosphere remains in a steady state.
+
 These assumptions can obscure the complex interactions between the ionosphere and its surroundings, restricting our understanding of long-studied phenomena like the aurora polaris. To overcome these shortcomings, DynaMIT will adopt a dynamic approach to magnetosphere-ionosphere-thermosphere coupling, using first principles to model the interactions between the neutral atmosphere, plasma, and electromagnetic fields.
 
 <!-- ## Installation
