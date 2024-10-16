@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: Archive
-description: News & blog posts
+description: Browse past news and updates related to DynaMIT
 background: /assets/theme/images/NorthernLightISS3.jpg
 permalink: /blog/
 ---
