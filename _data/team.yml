@@ -40,7 +40,7 @@ team:
 
   - name: Michael Madelaire
     role: Post-doc
-    image: #assets/theme/images/Margot.jpg # Can be external link
+    image: assets/theme/images/Michael.jpg # Can be external link
     description: >
       Magnetosphere/ionosphere, data analysis, data assimilation, EZIE, Danish
     orcid: 0000-0002-5631-7344
@@ -50,7 +50,7 @@ team:
     role: Researcher
     image: assets/theme/images/Margot.jpg # Can be external link
     description: >
-      Magnetosphere/ionosphere, data analysis, data assimilation, aurora, French sacrebleu
+      Magnetosphere/ionosphere, data analysis, data assimilation, aurora, Sacrebleu
     orcid: 0000-0001-7455-8734
     email: margot.decotte@uib.no
 
@@ -70,7 +70,7 @@ associations:
     role: Associate professor
     image: assets/theme/images/HildeNesse.jpg
     description: >
-      Magnetosphere / ionosphere physics, energetic particle precipitation
+      Magnetosphere/ionosphere physics, energetic particle precipitation
     orcid: 0000-0002-4178-8717
     googlescholar: PLddEKv0kSQC&hl
     email: hilde.nesse@uib.no
@@ -79,7 +79,7 @@ associations:
     role: Professor
     image: assets/theme/images/Kjellmar.jpg
     description: >
-      Magnetosphere / ionosphere physics, EISCAT3D, SMILE
+      Magnetosphere/ionosphere physics, EISCAT3D, SMILE
     orcid: 0000-0003-4312-6992
     googlescholar: e5ruDWEAAAAJ
     email: kjellmar.oksavik@uib.no
@@ -87,8 +87,14 @@ associations:
 
 
 extassociations:
-  - name: Who do we want here?
+  - name: Heiki 
+    role: ??
+    description: >
+      ??
     image: assets/theme/images/King.jpg
 
-  - name: Heiki 
+  - name: who else?
+    role: ??
+    description: >
+      ??
     image: assets/theme/images/King.jpg
