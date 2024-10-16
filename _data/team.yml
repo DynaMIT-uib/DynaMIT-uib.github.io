@@ -58,7 +58,7 @@ team:
     role: Researcher
     image: assets/theme/images/Spencer.jpg # Can be external link
     description: >
-      Magnetosphere / ionosphere, data analysis, data assimilation, EISCAT3D
+      Magnetosphere/ionosphere, data analysis, data assimilation, EISCAT3D
     orcid: 0000-0001-7412-4936
     googlescholar: 7BcjW0cAAAAJ&hl
     email: spencer.hatch@uib.no
