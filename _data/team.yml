@@ -42,7 +42,7 @@ team:
     role: Post-doc
     image: #assets/theme/images/Margot.jpg # Can be external link
     description: >
-      Magnetosphere / ionosphere, data analysis, data assimilation, EZIE, Danish
+      Magnetosphere/ionosphere, data analysis, data assimilation, EZIE, Danish
     orcid: 0000-0002-5631-7344
     email: michael.madelaire@uib.no
 
