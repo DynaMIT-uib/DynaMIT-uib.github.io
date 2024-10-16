@@ -50,7 +50,7 @@ team:
     role: Researcher
     image: assets/theme/images/Margot.jpg # Can be external link
     description: >
-      Magnetosphere / ionosphere, data analysis, data assimilation, aurora, French sacrebleu
+      Magnetosphere/ionosphere, data analysis, data assimilation, aurora, French sacrebleu
     orcid: 0000-0001-7455-8734
     email: margot.decotte@uib.no
 
