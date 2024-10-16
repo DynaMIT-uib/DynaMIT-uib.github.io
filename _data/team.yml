@@ -13,12 +13,14 @@ team:
     github: klaundal
     email: Karl.Laundal@uib.no
 
-  - name: Fasil Tesema
+  - name: Fasil T. Kebede
     role: Researcher
     image: assets/theme/images/Fasil.png # Can be external link
     description: >
       Magnetosphere/ionosphere, data analysis, data assimilation
     orcid: 0000-0002-5978-6955
+    googlescholar: AFY1UFwAAAAJ&hl
+    github: FasilGibdaw
     email: fasil.kebede@uib.no
 
   - name: Beatrice Popescu Braileanu
