@@ -5,7 +5,7 @@ team:
     role: PI, research professor # Will appear next to name
     image: assets/theme/images/Kalle_square400_400.jpg # Can be external link
     description: > # Can be Markdown
-      Magnetosphere / ionosphere physics, magnetosphere-ionosphere coupling, data analysis, model development, EZIE, EISCAT3D
+      Magnetosphere/ionosphere physics, magnetosphere-ionosphere coupling, data analysis, model development, EZIE, EISCAT3D
     orcid: 0000-0001-5028-4943
     googlescholar: kZ-B-QQAAAAJ&hl
     # twitter: twitter_username
@@ -17,7 +17,7 @@ team:
     role: Researcher
     image: assets/theme/images/Fasil.png # Can be external link
     description: >
-      Magnetosphere / ionosphere, data analysis, data assimilation
+      Magnetosphere/ionosphere, data analysis, data assimilation
     orcid: 0000-0002-5978-6955
     email: fasil.kebede@uib.no
 
@@ -25,7 +25,7 @@ team:
     role: Researcher
     image: assets/theme/images/beatrice.jpg # Can be external link
     description: >
-      Solar physics, Magnetosphere/ionosphere, model development
+      Solar physics, magnetosphere/ionosphere, model development
     orcid: 0000-0001-5447-5456
     googlescholar: 2jFUTawAAAAJ
     email: beatrice.braileanu@uib.no
@@ -40,7 +40,7 @@ team:
 
   - name: Michael Madelaire
     role: Post-doc
-    image: assets/theme/images/Michael.jpg # Can be external link
+    image: assets/theme/images/Michael.png # Can be external link
     description: >
       Magnetosphere/ionosphere, data analysis, data assimilation, EZIE, Danish
     orcid: 0000-0002-5631-7344
@@ -87,11 +87,12 @@ associations:
 
 
 extassociations:
-  - name: Heiki 
-    role: ??
+  - name: Heikki Vanhamäki 
+    role: Researcher
     description: >
       ??
     image: assets/theme/images/King.jpg
+    # heikki.vanhamaki@oulu.fi
 
   - name: who else?
     role: ??
