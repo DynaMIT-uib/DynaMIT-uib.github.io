@@ -1,7 +1,7 @@
 ---
 layout: team
-title: The Dream Team
-description: Meet the Minds Behind the Magic
+title: The team behind DynaMIT
+description: Meet the experts shaping our research
 background: /assets/theme/images/NorthernLightISS3.jpg
 permalink: /team/
 ---
