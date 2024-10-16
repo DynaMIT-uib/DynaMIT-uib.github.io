@@ -23,7 +23,7 @@ team:
 
   - name: Beatrice Popescu Braileanu
     role: Researcher
-    image: # assets/theme/images/Margot.jpg # Can be external link
+    image: assets/theme/images/beatrice.jpg # Can be external link
     description: >
       Solar physics, Magnetosphere / ionosphere, model development
     orcid: 0000-0001-5447-5456
@@ -87,5 +87,8 @@ associations:
 
 
 extassociations:
-  - name: King Charles?
+  - name: Who do we want here?
+    image: assets/theme/images/King.jpg
+
+  - name: Heiki 
     image: assets/theme/images/King.jpg
