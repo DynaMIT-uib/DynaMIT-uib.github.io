@@ -27,7 +27,7 @@ code:
 
       Main AMPS paper: Laundal, K. M., Finlay, C. C., Olsen, N. & Reistad, J. P. (2018), Solar wind and seasonal influence on ionospheric currents from Swarm and CHAMP measurements, Journal of Geophysical Research - Space Physics. [doi:10.1029/2018JA025387](https://doi.org/10.1029/2018JA025387)
 
-  - name: pySwipe
+  - name: PySwipe
     role: https://github.com/Dartspacephysiker/pyswipe
     image: https://github.com/Dartspacephysiker/pyswipe/blob/master/docs/static/example_plot.png?raw=true # Can be external link
     description: |
