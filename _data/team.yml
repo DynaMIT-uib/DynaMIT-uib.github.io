@@ -18,6 +18,8 @@ team:
     image: assets/theme/images/Fasil.png # Can be external link
     description: >
       Magnetosphere/ionosphere, data analysis, data assimilation
+    # Fasil did a PhD in space physics at UNIS (Svalbard, Norway) between 2018 and 2021, and a post-doc at the University of Helsinki in 2022-2024. 
+    # Say how he contributes to DynaMIT
     orcid: 0000-0002-5978-6955
     googlescholar: AFY1UFwAAAAJ&hl
     github: FasilGibdaw
@@ -42,7 +44,7 @@ team:
 
   - name: Michael Madelaire
     role: Post-doc
-    image: assets/theme/images/Michael3.jpg # Can be external link
+    image: assets/theme/images/Michael2.jpg # Can be external link
     description: >
       Magnetosphere/ionosphere, data analysis, data assimilation, EZIE, Danish
     orcid: 0000-0002-5631-7344
@@ -69,35 +71,67 @@ team:
 
 associations:
   - name: Hilde Nesse
-    role: Associate professor
+    role: Associate professor at University of Bergen
     image: assets/theme/images/HildeNesse.jpg
     description: >
       Magnetosphere/ionosphere physics, energetic particle precipitation
     orcid: 0000-0002-4178-8717
     googlescholar: PLddEKv0kSQC&hl
-    email: hilde.nesse@uib.no
+    #email: hilde.nesse@uib.no
 
   - name: Kjellmar Oksavik
-    role: Professor
+    role: Professor at University of Bergen
     image: assets/theme/images/Kjellmar.jpg
     description: >
       Magnetosphere/ionosphere physics, EISCAT3D, SMILE
     orcid: 0000-0003-4312-6992
     googlescholar: e5ruDWEAAAAJ
-    email: kjellmar.oksavik@uib.no
+    #email: kjellmar.oksavik@uib.no
 
-
-
-extassociations:
-  - name: Heikki Vanhamäki 
-    role: Researcher
+    - name: Norah Kaggwa Kwagala
+    role: Researcher at University of Bergen
+    image: assets/theme/images/Norah.jpg
     description: >
-      ??
-    image: assets/theme/images/King.jpg
-    # heikki.vanhamaki@oulu.fi
+      ...
 
-  - name: who else? Jesper, Norah, Minna, ... 
-    role: ??
-    description: >
-      ??
+  - name: Heikki Vanhamäki
+    role: Researcher at University of Oulou
     image: assets/theme/images/King.jpg
+    description: >
+      ...
+    orcid: 0000-0003-4789-8084
+    googlescholar: 
+    email: 
+
+  - name: Jesper Gjerloev
+    role: ... at Johns Hopkins Applied Physics Laboratory 
+    image: assets/theme/images/Jesper.jpg
+    description: >
+      ...
+    orcid: 
+    googlescholar: 0Myw0qIAAAAJ
+    email: 
+  
+  - name: Minna Palmroth
+    role: Professor at University of Helsinki 
+    image: assets/theme/images/Minna.jpeg
+    description: >
+      ...
+    orcid: 0000-0003-4857-1227
+    googlescholar: ZeeJanwAAAAJ
+    # email: minna.palmroth@helsinki.fi
+
+
+# extassociations:
+#   - name: Heikki Vanhamäki 
+#     role: Researcher
+#     description: >
+#       ??
+#     image: assets/theme/images/King.jpg
+#     # heikki.vanhamaki@oulu.fi
+
+#   - name: who else? Jesper, Norah, Minna, ... 
+#     role: ??
+#     description: >
+#       ??
+#     image: assets/theme/images/King.jpg
