@@ -13,4 +13,6 @@ The next meeting in the DynaMIT project will be 15-17 October at [Solstrand hote
 
 We will discuss what we have achieved so far and will discuss our our future plans, including setting a publication path.
 
-![Alt Text](/assets/theme/images/Solstrand.jpg)
+<!-- ![Alt Text](/assets/theme/images/Solstrand.jpg) -->
+<!-- ![Alt Text](/assets/theme/images/Solstrand.jpg){ width=300px height=200px } -->
+<img src="/assets/theme/images/Solstrand.jpg" alt="Alt Text" width="300">
