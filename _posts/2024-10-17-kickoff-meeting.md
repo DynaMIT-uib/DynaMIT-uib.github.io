@@ -11,10 +11,14 @@ custom_css: |
   .header {
       background-image: url('/assets/theme/images/Solstrand.jpg');
       background-size: cover;
-      background-position: center;
+      background-position: center 80%;
       height: 300px;
   }
 ---
+
+<style>
+{{ page.custom_css }}
+</style>
 
 This week, the DynaMIT team gathered with external collaborators and students for a kick-off meeting to review the progress of the project and set our future direction.
 
