@@ -1,11 +1,11 @@
 ---
 title: DynaMIT project kick-off meeting
-description: 15-17 October in Solstrand, Norway.
+description: 15-17 October in Solstrand, Norway
 background:
   img: /assets/theme/images/Solstrand.jpg
   by: Margot Decotte
   #href: https://unsplash.com/photos/XA1pHcB5AMA
-author: []
+#author: []
 tags: [Meetings, Shared tag]
 custom_css: |
   .header {
@@ -42,7 +42,7 @@ We discussed the current status of DynaMIT and reviewed our achievements to date
 
 Additionally, we examined the current status of the Lompe technique, explored potential code improvements, and addressed its limitations and challenges. Several related projects utilizing Lompe were also presented. Among such presentations:
 - Heikki: GIC presentation (recent paper by Liisa Juusola)
-- Margot: OSSE (Observing System Simulation Experiment) approach
+- Margot: Lompe and Observing System Simulation Experiments
 - Jens Christian (PhD student) and Spencer: TREX and Lompe
 - Jesper: The ARCH project
 
