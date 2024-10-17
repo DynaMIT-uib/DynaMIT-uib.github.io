@@ -32,11 +32,9 @@ Additionally, we examined the current status of the Lompe technique, explored po
 
 Our external collaborators and PhD students also gave insightful presentations on their respective projects and how their work aligns with DynaMIT’s objectives, reinforcing the collaborative spirit of the project. 
 - Jens Christian: Observational assessment of quiet auroral arc generator theories via data assimilation techniques 
-- Sara (PhD student), mesoscale analyses [ask title of her presentation] 
+- Sara (PhD student), mesoscale analyses
 - Spencer, EISCAT3D (e3doubt, 3d reconstruction, future plans/status of project)
 - Heikki, the JOIN project (ESA)
-
-We also received updates on the EZIE mission. 
 
 The meeting gave us a clearer vision for the upcoming phases, and we’re excited to keep making progress with the support of our team and partners.
 
