@@ -125,12 +125,12 @@ associations:
     # email: minna.palmroth@helsinki.fi
 
 
-# extassociations:
-#   - name: Heikki Vanhamäki 
-#     role: Researcher
-#     description: >
-#       ??
-#     image: assets/theme/images/King.jpg
-#     # heikki.vanhamaki@oulu.fi
+extassociations:
+  - name: Heikki Vanhamäki 
+    role: Researcher
+    description: >
+      ??
+    image: assets/theme/images/King.jpg
+    # heikki.vanhamaki@oulu.fi
 
 
