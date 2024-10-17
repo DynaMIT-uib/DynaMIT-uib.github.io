@@ -55,8 +55,8 @@ team:
     image: assets/theme/images/Margot.jpg # Can be external link
     description: >
       Key words: Magnetosphere/ionosphere, data analysis, data assimilation, aurora, Sacrebleu 
-      
-      Margot did her PhD at the University of Bergen, under the supervison of Karl K. Laundal. 
+
+      Margo did her PhD at the University of Bergen, under the supervison of Karl K. Laundal. 
       She graduated in June 2024, and has now started a PRODEX project. 
       As part of the DynaMIT team, she will further develop the Local mapping of polar ionospheric electrodynamics (Lompe) technique for use in Observation System Simulation Experiments (OSSEs) and demonstrate its capabilities on three different scenarios related to potential and upcoming ESA missions. 
     orcid: 0000-0001-7455-8734
