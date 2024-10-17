@@ -25,7 +25,7 @@ description: Template for Projects page.
         {% endif %}
       </div>
       <div>
-        <h5 id="{{ member.name | strip | url_enProjects }}">
+        <h5 id="{{ member.name | strip | url_encode }}">
           {{ member.name }}
           {% if member.role %}
             <small class="text-muted">| {{ member.role }}</small>

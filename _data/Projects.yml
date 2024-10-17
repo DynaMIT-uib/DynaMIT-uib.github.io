@@ -1,7 +1,7 @@
 # Project team members listed below will appear on the /team page
 
 Projects:
-  - name: EZIE test
+  - name: EZIE
     role: Electrojet Zeeman Imaging Explorer
     image: assets/theme/images/ezie.jpg # Can be external link
     description: | # Can be Markdown
