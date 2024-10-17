@@ -10,6 +10,7 @@ body > main {
   body {
     font-size: 14px; // Adjust font size for mobile
     padding: 10px; // Adjust padding for mobile
+    overflow-x: hidden;
   }
 
   .header {
