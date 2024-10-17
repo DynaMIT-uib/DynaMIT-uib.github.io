@@ -9,13 +9,17 @@ body > main {
 @media only screen and (max-width: 768px) {
   body {
     font-size: 14px; // Adjust font size for mobile
-    padding: 10px; // Adjust padding for mobile
-    overflow-x: hidden;
+    // padding: 10px; // Adjust padding for mobile
+    overflow-x: hidden; // Disable horizontal scrolling
   }
 
   .header {
-    text-align: center; // Center header text on mobile
-    background-size: cover; // Adjust image background for smaller screens
+    // text-align: center; // Center header text on mobile
+    // background-size: cover; // Adjust image background for smaller screens
+    width: 100%; /* Full width */
+    height: auto; /* Let height adjust naturally */
+    background-size: cover; /* Ensure the image covers the entire header */
+    background-position: center; /* Focus the image center */
   }
 
   .content {
