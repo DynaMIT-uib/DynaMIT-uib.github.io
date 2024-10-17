@@ -111,10 +111,9 @@ associations:
     role: ... at Johns Hopkins Applied Physics Laboratory 
     image: assets/theme/images/Jesper.jpg
     description: >
-      ...
-    orcid: 
+      Blablabla
     googlescholar: 0Myw0qIAAAAJ
-  
+
   - name: Minna Palmroth
     role: Professor at University of Helsinki 
     image: assets/theme/images/Minna.jpeg
@@ -125,12 +124,12 @@ associations:
     # email: minna.palmroth@helsinki.fi
 
 
-extassociations:
-  - name: Heikki Vanhamäki 
-    role: Researcher
-    description: >
-      ??
-    image: assets/theme/images/King.jpg
-    # heikki.vanhamaki@oulu.fi
+# extassociations:
+#   - name: Heikki Vanhamäki 
+#     role: Researcher
+#     description: >
+#       ??
+#     image: assets/theme/images/King.jpg
+#     # heikki.vanhamaki@oulu.fi
 
 
