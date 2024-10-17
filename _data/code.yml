@@ -27,7 +27,7 @@ code:
     role: 
     image: assets/theme/images/pyamps.png # Can be external link
     description: |
-      AMPS (Average Magnetic Field and Polar current System) is an empirical model of the global ionospheric magnetic field and current system, based on measurements from ESA's Swarm satellites. PI: Karl Laundal. [Click here to go to web app](https://pyamps.uib.no/)
+      AMPS (Average Magnetic Field and Polar current System) is an empirical model of the global ionospheric magnetic field and current system, based on measurements from ESA's Swarm satellites. PI: Karl Laundal. [Click here to go to web app](https://pyamps.uib.no/).
 
       Link to the code: [https://github.com/klaundal/pyamps](https://github.com/klaundal/pyamps)
 
