@@ -5,7 +5,7 @@ background:
   img: /assets/theme/images/Solstrand.jpg
   by: Margot Decotte
   #href: https://unsplash.com/photos/XA1pHcB5AMA
-author: [M. Decotte]
+author: []
 tags: [Meetings, Shared tag]
 custom_css: |
   .header {
@@ -13,6 +13,22 @@ custom_css: |
       background-size: cover;
       background-position: center 58%;
       height: 300px;
+  }
+  .header::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: rgba(0, 0, 0, 0.5); /* Semi-transparent black */
+    z-index: 1;
+  }
+
+  .header h1, .header p {
+    position: relative;
+    z-index: 2;
+    color: white; /* Ensures text stays on top of the overlay */
   }
 ---
 
