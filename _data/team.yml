@@ -42,7 +42,7 @@ team:
 
   - name: Michael Madelaire
     role: Post-doc
-    image: assets/theme/images/Michael.png # Can be external link
+    image: assets/theme/images/Michael1.png # Can be external link
     description: >
       Magnetosphere/ionosphere, data analysis, data assimilation, EZIE, Danish
     orcid: 0000-0002-5631-7344
