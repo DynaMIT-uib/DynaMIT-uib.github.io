@@ -8,11 +8,13 @@ permalink: /
 
 ### **How is Earth's atmosphere dynamically coupled to space?**
 
-DynaMIT will address two limiting assumptions in current ionosphere models:
-- That the ionosphere is two-dimensional.
-- That the ionosphere remains in a steady state.
+The DynaMIT project challenges the long-held assumption that the ionosphere is in a steady state.
 
-These assumptions can obscure the complex interactions between the ionosphere and its surroundings, restricting our understanding of long-studied phenomena like the aurora polaris. To overcome these shortcomings, DynaMIT will adopt a dynamic approach to magnetosphere-ionosphere-thermosphere coupling, using first principles to model the interactions between the neutral atmosphere, plasma, and electromagnetic fields.
+This static view limits our ability to fully understand the intricate interactions between the atmosphere and space plasma and resulting phenomena such as the aurora. Instead, DynaMIT takes a dynamic approach to magnetosphere-ionosphere-thermosphere coupling, using first principles to model the interactions between the neutral atmosphere, plasma, and electromagnetic fields.
+
+
+
+
 
 <!-- ## Installation
 
