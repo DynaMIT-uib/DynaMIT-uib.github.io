@@ -62,4 +62,4 @@ Add group picture.
 
 <!-- ![Alt Text](/assets/theme/images/Solstrand.jpg) -->
 <!-- ![Alt Text](/assets/theme/images/Solstrand.jpg){ width=300px height=200px } -->
-<img src="/assets/theme/images/solstrand-group-photo.jpeg" alt="Alt Text" width="300">
+<img src="/assets/theme/images/solstrand-group-photo.jpeg" alt="Alt Text" width="700">
