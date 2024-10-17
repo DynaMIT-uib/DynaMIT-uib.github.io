@@ -4,3 +4,21 @@ body > main {
   min-height: calc(100vh - 54px); // Viewport height minus medium screen navbar height, to push footer to bottom
   padding-bottom: $grid-gutter-width; // Don't stick to footer
 }
+
+// Media queries for responsive design
+@media only screen and (max-width: 768px) {
+  body {
+    font-size: 14px; // Adjust font size for mobile
+    padding: 10px; // Adjust padding for mobile
+  }
+
+  .header {
+    text-align: center; // Center header text on mobile
+    background-size: cover; // Adjust image background for smaller screens
+  }
+
+  .content {
+    padding: 10px; // Adjust content padding for smaller screens
+    margin: 0 auto; // Center content on mobile
+  }
+}
