@@ -5,7 +5,7 @@ code:
     role: 
     image: assets/theme/images/dynamit.png # Can be external link
     description: | # Can be Markdown
-      Python code for 1-dimensional simulation of dynamic magnetosphere-ionosphere-thermosphere coupling.
+      Code for 1-dimensional simulation of dynamic magnetosphere-ionosphere-thermosphere coupling.
 
       Link to the code: [https://github.com/DynaMIT-uib/DynaMIT_1D](https://github.com/DynaMIT-uib/DynaMIT_1D)
 

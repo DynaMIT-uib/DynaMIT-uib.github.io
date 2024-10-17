@@ -43,12 +43,12 @@ We discussed the current status of DynaMIT and reviewed our achievements to date
 Additionally, we examined the current status of the Lompe technique, explored potential code improvements, and addressed its limitations and challenges. Several related projects utilizing Lompe were also presented. Among such presentations:
 - Heikki: GIC presentation (recent paper by Liisa Juusola)
 - Margot: Lompe and Observing System Simulation Experiments
-- Jens Christian (PhD student) and Spencer: TREX and Lompe
+- Jens C. Hessen (PhD student) and Spencer: TREX and Lompe
 - Jesper: The ARCH project
 
 Our external collaborators and PhD students also gave insightful presentations on their respective projects and how their work aligns with DynaMIT’s objectives, reinforcing the collaborative spirit of the project. 
-- Jens Christian: Observational assessment of quiet auroral arc generator theories via data assimilation techniques 
-- Sara (PhD student): mesoscale analyses
+- Jens C.: Observational assessment of quiet auroral arc generator theories via data assimilation techniques 
+- Sara Gasparini (PhD student): mesoscale analyses
 - Spencer: Status of the EISCAT3D project and future plans (e3doubt, 3d reconstruction, ...)
 - Heikki: the JOIN project (ESA)
 

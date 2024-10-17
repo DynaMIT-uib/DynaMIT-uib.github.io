@@ -54,7 +54,12 @@ team:
     role: Researcher
     image: assets/theme/images/Margot.jpg # Can be external link
     description: >
-      Magnetosphere/ionosphere, data analysis, data assimilation, aurora, Sacrebleu
+      Key words: Magnetosphere/ionosphere, data analysis, data assimilation, aurora, Sacrebleu
+
+      Margot did her PhD at the University of Bergen, under the supervison of Karl K. Laundal. 
+      She graduated in June 2024, and has now started a PRODEX project. 
+      As part of the DynaMIT team, she will further develop the Local mapping of polar ionospheric electrodynamics (Lompe) technique for use in Observation System Simulation Experiments (OSSEs) and demonstrate its capabilities on three different scenarios related to potential and upcoming ESA
+missions. 
     orcid: 0000-0001-7455-8734
     email: margot.decotte@uib.no
 
@@ -101,7 +106,6 @@ associations:
       ...
     orcid: 0000-0003-4789-8084
     googlescholar: 
-    email: 
 
   - name: Jesper Gjerloev
     role: ... at Johns Hopkins Applied Physics Laboratory 
@@ -110,7 +114,6 @@ associations:
       ...
     orcid: 
     googlescholar: 0Myw0qIAAAAJ
-    email: 
   
   - name: Minna Palmroth
     role: Professor at University of Helsinki 
@@ -130,8 +133,4 @@ associations:
 #     image: assets/theme/images/King.jpg
 #     # heikki.vanhamaki@oulu.fi
 
-#   - name: who else? Jesper, Norah, Minna, ... 
-#     role: ??
-#     description: >
-#       ??
-#     image: assets/theme/images/King.jpg
+
