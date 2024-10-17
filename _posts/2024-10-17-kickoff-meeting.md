@@ -11,7 +11,7 @@ custom_css: |
   .header {
       background-image: url('/assets/theme/images/Solstrand.jpg');
       background-size: cover;
-      background-position: center 60%;
+      background-position: center 58%;
       height: 300px;
   }
 ---
