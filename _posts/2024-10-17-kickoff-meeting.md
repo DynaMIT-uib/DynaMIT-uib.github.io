@@ -27,7 +27,7 @@ We also received updates on the EZIE mission.
 
 The meeting gave us a clearer vision for the upcoming phases, and we’re excited to keep making progress with the support of our team and partners.
 
-The next meeting is planned for 3-7 February 2025, and will focus on ...?
+The next workshop is planned for 3-7 February 2025, and will focus on ...?
 
 Anything else?
 
