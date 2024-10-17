@@ -93,35 +93,35 @@ associations:
     googlescholar: e5ruDWEAAAAJ
     #email: kjellmar.oksavik@uib.no
 
-    - name: Norah Kaggwa Kwagala
-    role: Researcher at University of Bergen
-    image: assets/theme/images/Norah.jpg
-    description: >
-      ...
+  #   - name: Norah Kaggwa Kwagala
+  #   role: Researcher at University of Bergen
+  #   image: assets/theme/images/Norah.jpg
+  #   description: >
+  #     ...
 
-  - name: Heikki Vanhamäki
-    role: Researcher at University of Oulou
-    image: assets/theme/images/King.jpg
-    description: >
-      ...
-    orcid: 0000-0003-4789-8084
-    googlescholar: 
+  # - name: Heikki Vanhamäki
+  #   role: Researcher at University of Oulou
+  #   image: assets/theme/images/King.jpg
+  #   description: >
+  #     ...
+  #   orcid: 0000-0003-4789-8084
+  #   googlescholar: 
 
-  - name: Jesper Gjerloev
-    role: ... at Johns Hopkins Applied Physics Laboratory 
-    image: assets/theme/images/Jesper.jpg
-    description: >
-      Blablabla
-    googlescholar: 0Myw0qIAAAAJ
+  # - name: Jesper Gjerloev
+  #   role: ... at Johns Hopkins Applied Physics Laboratory 
+  #   image: assets/theme/images/Jesper.jpg
+  #   description: >
+  #     ...
+  #   googlescholar: 0Myw0qIAAAAJ
 
-  - name: Minna Palmroth
-    role: Professor at University of Helsinki 
-    image: assets/theme/images/Minna.jpeg
-    description: >
-      ...
-    orcid: 0000-0003-4857-1227
-    googlescholar: ZeeJanwAAAAJ
-    # email: minna.palmroth@helsinki.fi
+  # - name: Minna Palmroth
+  #   role: Professor at University of Helsinki 
+  #   image: assets/theme/images/Minna.jpeg
+  #   description: >
+  #     ...
+  #   orcid: 0000-0003-4857-1227
+  #   googlescholar: ZeeJanwAAAAJ
+  #   # email: minna.palmroth@helsinki.fi
 
 
 # extassociations:
