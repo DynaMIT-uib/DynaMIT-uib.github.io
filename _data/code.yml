@@ -2,12 +2,14 @@
 
 code:
   - name: DynaMIT_1D
-    role: https://github.com/DynaMIT-uib/DynaMIT_1D
+    role: 
     image: assets/theme/images/dynamit.png # Can be external link
     description: | # Can be Markdown
-      Code to reproduce the simulations and figures in 
+      Code to reproduce the simulations and figures in this paper:
 
       Laundal, K. M., Hatch, S. M., Reistad, J. P., Ohma, A., Tenfjord, P., & Madelaire, M. (2024). How the ionosphere responds dynamically to magnetospheric forcing. Geophysical Research Letters, 51, e2024GL108695. [https://doi.org/10.1029/2024GL108695](https://doi.org/10.1029/2024GL108695)
+
+      Link to the code: [https://github.com/DynaMIT-uib/DynaMIT_1D](https://github.com/DynaMIT-uib/DynaMIT_1D)
 
   - name: Lompe
     role: https://github.com/klaundal/lompe
