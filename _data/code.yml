@@ -25,9 +25,12 @@ code:
     role: https://github.com/klaundal/pyamps
     image: assets/theme/images/pyamps.png # Can be external link
     description: |
+      
       AMPS (Average Magnetic Field and Polar current System) is an empirical model of the global ionospheric magnetic field and current system, based on measurements from ESA's Swarm satellites. PI: Karl Laundal. [Click here to go to web app](https://pyamps.uib.no/)
 
       Main AMPS paper: Laundal, K. M., Finlay, C. C., Olsen, N. & Reistad, J. P. (2018), Solar wind and seasonal influence on ionospheric currents from Swarm and CHAMP measurements, Journal of Geophysical Research - Space Physics. [doi:10.1029/2018JA025387](https://doi.org/10.1029/2018JA025387)
+
+      [https://github.com/klaundal/pyamps](https://github.com/klaundal/pyamps)
 
   - name: PySwipe
     role: https://github.com/Dartspacephysiker/pyswipe
