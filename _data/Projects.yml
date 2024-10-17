@@ -40,7 +40,7 @@ Projects:
        - AMPS (Average Magnetic Field and Polar current System) is an empirical model of the global ionospheric magnetic field and current system, based on measurements from ESA's Swarm satellites. PI: Karl Laundal. [Python code](https://github.com/klaundal/pyamps). [Web app](https://pyamps.uib.no/)
        - SWIPE (Swarm Ionospheric Polar Electrodynamics) is an empirical model that combines AMPS with a model of the electric field, called Swarm Hi-C, to derive ionospheric electrodynamic parameters. PI: Spencer Hatch. [Python code](https://github.com/Dartspacephysiker/pyswipe)
 
-       Key Publications:
+       Key publications:
        - Hatch, S. M., Vanhamäki, H., Laundal, K. M., Reistad, J. P., Burchill, J. K., Lomidze, L., Knudsen, D. J., Madelaire, M., and Tesfaw, H.: Does high-latitude ionospheric electrodynamics exhibit hemispheric mirror symmetry?, Ann. Geophys., 42, 229–253, [https://doi.org/10.5194/angeo-42-229-2024](https://doi.org/10.5194/angeo-42-229-2024), 2024.
        - Clemens Kloss, Christopher C Finlay, Karl M Laundal, Nils Olsen, Polar ionospheric currents and high temporal resolution geomagnetic field models, Geophysical Journal International, Volume 235, Issue 2, November 2023, Pages 1736–1760, [https://doi.org/10.1093/gji/ggad325](https://doi.org/10.1093/gji/ggad325)
        - Hatch, S. M., Laundal, K. M., & Reistad, J. P. (2022). Testing the mirror symmetry of Birkeland and ionospheric currents with respect to magnetic latitude, dipole tilt angle, and IMF By. *Front. Astron. Space Sci.*, 9:958977. [https://doi.org/10.3389/fspas.2022.958977](https://doi.org/10.3389/fspas.2022.958977)
