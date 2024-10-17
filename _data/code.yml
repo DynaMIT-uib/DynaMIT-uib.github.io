@@ -5,10 +5,11 @@ code:
     role: 
     image: assets/theme/images/dynamit.png # Can be external link
     description: | # Can be Markdown
+      [This code blablabla sacrebleu]
+
       Link to the code: [https://github.com/DynaMIT-uib/DynaMIT_1D](https://github.com/DynaMIT-uib/DynaMIT_1D)
 
-      Code to reproduce the simulations and figures in this paper:
-
+      This code enables the reproduction of the simulations and figures presented in this paper:
       Laundal, K. M., Hatch, S. M., Reistad, J. P., Ohma, A., Tenfjord, P., & Madelaire, M. (2024). How the ionosphere responds dynamically to magnetospheric forcing. Geophysical Research Letters, 51, e2024GL108695. [https://doi.org/10.1029/2024GL108695](https://doi.org/10.1029/2024GL108695)
 
   - name: Lompe
@@ -31,7 +32,8 @@ code:
 
       Link to the code: [https://github.com/klaundal/pyamps](https://github.com/klaundal/pyamps)
 
-      Main AMPS paper: Laundal, K. M., Finlay, C. C., Olsen, N. & Reistad, J. P. (2018), Solar wind and seasonal influence on ionospheric currents from Swarm and CHAMP measurements, Journal of Geophysical Research - Space Physics. [doi:10.1029/2018JA025387](https://doi.org/10.1029/2018JA025387)
+      Main AMPS paper: 
+      Laundal, K. M., Finlay, C. C., Olsen, N. & Reistad, J. P. (2018), Solar wind and seasonal influence on ionospheric currents from Swarm and CHAMP measurements, Journal of Geophysical Research - Space Physics. [doi:10.1029/2018JA025387](https://doi.org/10.1029/2018JA025387)
 
 
   - name: PySwipe
@@ -42,4 +44,5 @@ code:
 
       Link to the code: [https://github.com/Dartspacephysiker/pyswipe](https://github.com/Dartspacephysiker/pyswipe)
 
-      Main Swipe paper: Hatch, S. M., Vanhamäki, H., Laundal, K. M., Reistad, J. P., Burchill, J. K., Lomidze, L., Knudsen, D. J., Madelaire, M., & Tesfaw, H. (2024). Does high-latitude ionospheric electrodynamics exhibit hemispheric mirror symmetry? Annales Geophysicae. [doi:10.5194/angeo-42-229-2024](https://doi.org/10.5194/angeo-42-229-2024)
+      Main Swipe paper: 
+      Hatch, S. M., Vanhamäki, H., Laundal, K. M., Reistad, J. P., Burchill, J. K., Lomidze, L., Knudsen, D. J., Madelaire, M., & Tesfaw, H. (2024). Does high-latitude ionospheric electrodynamics exhibit hemispheric mirror symmetry? Annales Geophysicae. [doi:10.5194/angeo-42-229-2024](https://doi.org/10.5194/angeo-42-229-2024)
