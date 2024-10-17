@@ -58,8 +58,7 @@ The next workshop is planned for 3-7 February 2025, and will focus on ...?
 
 Anything else?
 
-Add group picture. 
 
 <!-- ![Alt Text](/assets/theme/images/Solstrand.jpg) -->
 <!-- ![Alt Text](/assets/theme/images/Solstrand.jpg){ width=300px height=200px } -->
-<img src="/assets/theme/images/solstrand-group-photo.jpeg" alt="Alt Text" width="700">
+<img src="/assets/theme/images/solstrand-group-photo.jpeg" alt="Alt Text" width="900">
