@@ -2,7 +2,7 @@
 title: Publications
 description: DynaMIT project publications
 background: /assets/theme/images/NorthernLightISS3.jpg
-permalink: /Publications/
+permalink: /publications/
 ---
 
 <!-- To do: find out how to open link in a new page  -->
