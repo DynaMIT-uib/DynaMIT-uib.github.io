@@ -53,4 +53,4 @@ defaults:
   - scope:
       type: posts
     values:
-      permalink: "/blog/:year/:slug/"   # Use /blog/yyyy/{filename}/ as permalink for all posts
+      permalink: "/news-archive/:year/:slug/"   # Use /blog/yyyy/{filename}/ as permalink for all posts

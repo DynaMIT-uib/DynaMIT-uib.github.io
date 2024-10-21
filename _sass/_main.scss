@@ -5,6 +5,11 @@ body > main {
   padding-bottom: $grid-gutter-width; // Don't stick to footer
 }
 
+p {
+  word-wrap: break-word;
+  white-space: normal;
+}
+
 // Media queries for responsive design
 @media only screen and (max-width: 768px) {
   body {
