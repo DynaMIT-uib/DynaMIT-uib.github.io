@@ -12,6 +12,10 @@ team:
       
       - sacre
       - bleu
+
+    list:
+      - sacre
+      - bleu
     orcid: 0000-0001-5028-4943
     googlescholar: kZ-B-QQAAAAJ&hl
     # twitter: twitter_username
