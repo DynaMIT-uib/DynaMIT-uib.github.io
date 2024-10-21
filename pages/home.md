@@ -12,7 +12,7 @@ The DynaMIT project challenges the long-held assumption that the ionosphere is i
 
 DynaMIT takes a dynamic approach to magnetosphere-ionosphere-thermosphere coupling. Using first principles, we model the interactions between the neutral atmosphere, plasma, and electromagnetic fields.
 
-Read more about the DynaMIT project [here](https://dynamit-uib.github.io/blog/2024/about-dynamit).
+Read more about the DynaMIT project [here](https://dynamit-uib.github.io/news-archive/2024/about-dynamit).
 
 
 <!-- ## Installation
