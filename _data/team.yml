@@ -11,7 +11,7 @@ team:
       Making a list here:
 
 
-      - sacre
+      - sacre  
       - bleu
     orcid: 0000-0001-5028-4943
     googlescholar: kZ-B-QQAAAAJ&hl
@@ -24,7 +24,7 @@ team:
     role: Researcher
     image: assets/theme/images/Fasil.png # Can be external link
     description: >
-      Key words: Magnetosphere/ionosphere, data analysis, data assimilation\n
+      Key words: Magnetosphere/ionosphere, data analysis, data assimilation<br>
       add description
     # Fasil did a PhD in space physics at UNIS (Svalbard, Norway) between 2018 and 2021, and a post-doc at the University of Helsinki in 2022-2024. 
     # Say how he contributes to DynaMIT
