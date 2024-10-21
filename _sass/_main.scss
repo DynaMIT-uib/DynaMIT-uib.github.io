@@ -5,7 +5,7 @@ body > main {
   padding-bottom: $grid-gutter-width; // Don't stick to footer
 }
 
-p {
+body > main p {
   word-wrap: break-word;
   white-space: normal;
 }
