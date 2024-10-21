@@ -8,59 +8,10 @@ Projects:
       EZIE (Electrojet Zeeman Imaging Explorer) is a NASA satellite mission to study the auroral electrojets. EZIE is led by Sam Yee at Johns Hopkins University Applied Physics Laboratory. [EZIE webpage](https://ezie.jhuapl.edu/). 
       
 
-      Selected publications:
+      Selected publications ts:
 
       - Madelaire, M., Laundal, K., Gjerloev, J., Hatch, S., Reistad, J., Vanhamäki, H., et al. (2023). Spatial resolution in inverse problems: The EZIE satellite mission. Journal of Geophysical Research: Space Physics, 128, e2023JA031394. [https://doi.org/10.1029/2023JA031394](https://doi.org/10.1029/2023JA031394)
       
       - Laundal, K. M., Yee, J. H., Merkin, V. G., Gjerloev, J. W., Vanhamäki, H., Reistad, J. P., et al. (2021). Electrojet estimates from mesospheric magnetic field measurements. Journal of Geophysical Research: Space Physics, 126, e2020JA028644. [https://doi.org/10.1029/2020JA028644](https://doi.org/10.1029/2020JA028644)
 
 
-  - name: Trond Mohn Foundation
-    role: Starting Grant - What Shapes Space?
-    image: assets/theme/images/tms.jpg # Can be external link
-    description: |
-      Awarded to Karl Laundal in 2019. The project is about understanding the large-scale shape of geospace by investigating ionospheric observations, and develop new tools to do so. The project will end in 2025. 
-
-      Selected publications:
-      - Gasparini, S., Hatch, S. M., Reistad, J. P., Ohma, A., Laundal, K. M., Walker, S. J., & Madelaire, M. (2024). A quantitative analysis of the uncertainties on reconnection electric field estimates using ionospheric measurements. Journal of Geophysical Research: Space Physics, 129, e2024JA032599. [https://doi.org/10.1029/2024JA032599](https://doi.org/10.1029/2024JA032599)
-      - Walker, S. J., Laundal, K. M., Reistad, J. P., Ohma, A., Hatch, S. M., Chisham, G., & Decotte, M. (2024). A comparison of auroral oval proxies with the boundaries of the auroral electrojets. *Space Weather*, 22, e2023SW003689. [https://doi.org/10.1029/2023SW003689](https://doi.org/10.1029/2023SW003689)
-      - Decotte, M., Laundal, K. M., Hatch, S. M., & Reistad, J. P. (2024). Occurrence probability of magnetic field disturbances measured with Swarm: Mapping the dynamic magnetosphere-ionosphere coupling. *Journal of Geophysical Research: Space Physics*, 129, e2023JA032191. [https://doi.org/10.1029/2023JA032191](https://doi.org/10.1029/2023JA032191)
-      - Ohma, A., Laundal, K. M., Madelaire, M., Hatch, S. M., Gasparini, S., Reistad, J. P., et al. (2024). Robust estimates of spatiotemporal variations in the auroral boundaries derived from global UV imaging. Journal of Geophysical Research: Space Physics, 129, e2023JA032021. [https://doi.org/10.1029/2023JA032021](https://doi.org/10.1029/2023JA032021)
-      - Decotte, M., Laundal, K. M., Hatch, S. M., & Reistad, J. P. (2023). Auroral oval morphology: Dawn-dusk asymmetry partially induced by Earth's rotation. *Journal of Geophysical Research: Space Physics*, 128, e2023JA031345. [https://doi.org/10.1029/2023JA031345](https://doi.org/10.1029/2023JA031345)
-      - Ohma, A., Madelaire, M., Laundal, K. M., Reistad, J. P., Hatch, S. M., Gasparini, S., & Walker, S. J. (2023). Background removal from global auroral images: Data driven dayglow modelling. *Earth Planet. Phys.*, 8(1), 1–11. [https://doi.org/10.26464/epp2023051](https://doi.org/10.26464/epp2023051)
-      - Laundal, K. M., Madelaire, M., Ohma, A., Reistad, J., & Hatch, S. (2022a). The relationship between interhemispheric asymmetries in polar ionospheric convection and the magnetic field line footpoint displacement field. *Front. Astron. Space Sci.*, 9:957223. [https://doi.org/10.3389/fspas.2022.957223](https://doi.org/10.3389/fspas.2022.957223)
-      - Elhawary, R., Laundal, K. M., Reistad, J. P., Madelaire, M., & Ohma, A. (2023). Substorm impact on dayside ionospheric currents. *Geophysical Research Letters*, 50, e2023GL104800. [https://doi.org/10.1029/2023GL104800](https://doi.org/10.1029/2023GL104800)
-      - Walker, S., Laundal, K., Reistad, J., Ohma, A., & Hatch, S. (2023). Statistical temporal variations in the auroral electrojet estimated with ground magnetometers in Fennoscandia. *Space Weather*, 21, e2022SW003305. [https://doi.org/10.1029/2022SW003305](https://doi.org/10.1029/2022SW003305)
-      - Hovland, A. Ø., Laundal, K. M., Reistad, J. P., Hatch, S. M., Walker, S. J., Madelaire, M., & Ohma, A. (2022). The Lompe code: A Python toolbox for ionospheric data analysis. *Front. Astron. Space Sci.*, 9:1025823. [https://doi.org/10.3389/fspas.2022.1025823](https://doi.org/10.3389/fspas.2022.1025823)
-      - Laundal, K. M., Reistad, J. P., Hatch, S. M., Madelaire, M., Walker, S., Hovland, A. Ø., Ohma, A., Merkin, V. G., & Sorathia, K. A. (2022b). Local mapping of polar ionospheric electrodynamics. *Journal of Geophysical Research: Space Physics*. [https://doi.org/10.1029/2022JA030356](https://doi.org/10.1029/2022JA030356)
-
-
-  - name: Swarm
-    role: The AMPS and Swipe models
-    image: assets/theme/images/swarm.jpg
-    description: |
-       We have developed two data products for the Swarm mission with funding from [Swarm DISC](https://swarmdisc.org/):
-       - AMPS (Average Magnetic Field and Polar current System) is an empirical model of the global ionospheric magnetic field and current system, based on measurements from ESA's Swarm satellites. PI: Karl Laundal. [Python code](https://github.com/klaundal/pyamps). [Web app](https://pyamps.uib.no/)
-       - SWIPE (Swarm Ionospheric Polar Electrodynamics) is an empirical model that combines AMPS with a model of the electric field, called Swarm Hi-C, to derive ionospheric electrodynamic parameters. PI: Spencer Hatch. [Python code](https://github.com/Dartspacephysiker/pyswipe)
-
-       Key publications:
-       - Hatch, S. M., Vanhamäki, H., Laundal, K. M., Reistad, J. P., Burchill, J. K., Lomidze, L., Knudsen, D. J., Madelaire, M., and Tesfaw, H.: Does high-latitude ionospheric electrodynamics exhibit hemispheric mirror symmetry?, Ann. Geophys., 42, 229–253, [https://doi.org/10.5194/angeo-42-229-2024](https://doi.org/10.5194/angeo-42-229-2024), 2024.
-       - Clemens Kloss, Christopher C Finlay, Karl M Laundal, Nils Olsen, Polar ionospheric currents and high temporal resolution geomagnetic field models, Geophysical Journal International, Volume 235, Issue 2, November 2023, Pages 1736–1760, [https://doi.org/10.1093/gji/ggad325](https://doi.org/10.1093/gji/ggad325)
-       - Hatch, S. M., Laundal, K. M., & Reistad, J. P. (2022). Testing the mirror symmetry of Birkeland and ionospheric currents with respect to magnetic latitude, dipole tilt angle, and IMF By. *Front. Astron. Space Sci.*, 9:958977. [https://doi.org/10.3389/fspas.2022.958977](https://doi.org/10.3389/fspas.2022.958977)
-       - Laundal, K. M., Finlay, C. C., Olsen, N. & Reistad, J. P. (2018), Solar wind and seasonal influence on ionospheric currents from Swarm and CHAMP measurements, Journal of Geophysical Research - Space Physics. [doi:10.1029/2018JA025387](https://doi.org/doi:10.1029/2018JA025387)
-
-  - name: E3D-BRITE
-    role: EISCAT_3D-Based Reconstruction of Ionosphere-Thermosphere Electrodynamics
-    image: assets/theme/images/e3dbrite.png
-    description: |
-       Awarded to Spencer Hatch in 2023. We are developing tools for reconstruction of ionosphere-thermosphere electrodynamics on the basis of EISCAT_3D measurements with funding from the [Research Council of Norway](https://prosjektbanken.forskningsradet.no/en/project/FORISS/344061?Kilde=FORISS&distribution=Ar&chart=bar&calcType=funding&Sprak=no&sortBy=date&sortOrder=desc&resultCount=30&offset=0&Geografi.2=Kongsberg&source=FORISS&projectId=341078) over a four-year period, 2024–2028. [[Project website on CRISTIN]](https://app.cristin.no/projects/show.jsf?id=2713925) 
-
-       Publications (so far):
-       - Reistad, J. P., Hatch, S. M., Laundal, K. M., Oksavik, K., Zettergren, M., Vanhamäki, H., & Virtanen, I. (2024). Volumetric Reconstruction of Ionospheric Electric Currents From Tri‐Static Incoherent Scatter Radar Measurements. Journal of Geophysical Research: Space Physics, 129(8). [https://doi.org/10.1029/2024JA032744](https://doi.org/10.1029/2024JA032744)
-
-       Code:
-       - E3DSECS - Tool to perform volumetric reconstruction of electric current density. [[Github]](https://github.com/jpreistad/e3dsecs)
-       - EISCAT_3D Uncertainty Estimation (e3doubt) - a toolbox for EISCAT_3D experiment design and uncertainty estimation. [[Github]](https://github.com/Dartspacephysiker/e3doubt)
-       
-
- 
