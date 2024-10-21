@@ -7,6 +7,8 @@ team:
     description: > # Can be Markdown
       Magnetosphere/ionosphere physics, magnetosphere-ionosphere coupling, data analysis, model development, EZIE, EISCAT3D
 
+      EZIE (Electrojet Zeeman Imaging Explorer) is a NASA satellite mission to study the auroral electrojets. EZIE is led by Sam Yee at Johns Hopkins University Applied Physics Laboratory. [EZIE webpage](https://ezie.jhuapl.edu/). 
+      
       Selected publications:
       - Madelaire, M., Laundal, K., Gjerloev, J., Hatch, S., Reistad, J., Vanhamäki, H., et al. (2023). Spatial resolution in inverse problems: The EZIE satellite mission. Journal of Geophysical Research: Space Physics, 128, e2023JA031394. [https://doi.org/10.1029/2023JA031394](https://doi.org/10.1029/2023JA031394)
       - Laundal, K. M., Yee, J. H., Merkin, V. G., Gjerloev, J. W., Vanhamäki, H., Reistad, J. P., et al. (2021). Electrojet estimates from mesospheric magnetic field measurements. Journal of Geophysical Research: Space Physics, 126, e2020JA028644. [https://doi.org/10.1029/2020JA028644](https://doi.org/10.1029/2020JA028644)
