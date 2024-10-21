@@ -6,6 +6,11 @@ team:
     image: assets/theme/images/Kalle_square400_400.jpg # Can be external link
     description: > # Can be Markdown
       Key words: Magnetosphere/ionosphere physics, magnetosphere-ionosphere coupling, data analysis, model development, EZIE, EISCAT3D
+
+      Making a list here:
+
+      - sacre
+      - bleu
     orcid: 0000-0001-5028-4943
     googlescholar: kZ-B-QQAAAAJ&hl
     # twitter: twitter_username
