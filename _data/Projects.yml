@@ -4,7 +4,7 @@ Projects:
   - name: EZIE
     role: Electrojet Zeeman Imaging Explorer
     image: assets/theme/images/ezie.jpg # Can be external link
-    description: > # Can be Markdown
+    description: | # Can be Markdown
       EZIE (Electrojet Zeeman Imaging Explorer) is a NASA satellite mission to study the auroral electrojets. EZIE is led by Sam Yee at Johns Hopkins University Applied Physics Laboratory. [EZIE webpage](https://ezie.jhuapl.edu/). 
       
       Selected publications:
