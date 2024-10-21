@@ -4,10 +4,10 @@ team:
   - name: Karl M. Laundal 
     role: PI, research professor # Will appear next to name
     image: assets/theme/images/Kalle_square400_400.jpg # Can be external link
-    description: | # Can be Markdown
+    description: > # Can be Markdown
       Magnetosphere/ionosphere physics, magnetosphere-ionosphere coupling, data analysis, model development, EZIE, EISCAT3D
 
-      testestesttesttestestesttesttestestesttesttestestesttesttestestesttesttestestesttesttestestesttesttestestesttesttestestesttesttestestesttesttestestesttest
+      ??testestesttesttestestesttesttestestesttesttestestesttesttestestesttesttestestesttesttestestesttesttestestesttesttestestesttesttestestesttesttestestesttest
     orcid: 0000-0001-5028-4943
     googlescholar: kZ-B-QQAAAAJ&hl
     # twitter: twitter_username
