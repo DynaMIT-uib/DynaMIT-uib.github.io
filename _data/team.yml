@@ -7,7 +7,9 @@ team:
     description: > # Can be Markdown
       Key words: Magnetosphere/ionosphere physics, magnetosphere-ionosphere coupling, data analysis, model development, EZIE, EISCAT3D
 
+
       Making a list here:
+
 
       - sacre
       - bleu
@@ -22,7 +24,8 @@ team:
     role: Researcher
     image: assets/theme/images/Fasil.png # Can be external link
     description: >
-      Magnetosphere/ionosphere, data analysis, data assimilation
+      Key words: Magnetosphere/ionosphere, data analysis, data assimilation\n
+      add description
     # Fasil did a PhD in space physics at UNIS (Svalbard, Norway) between 2018 and 2021, and a post-doc at the University of Helsinki in 2022-2024. 
     # Say how he contributes to DynaMIT
     orcid: 0000-0002-5978-6955
