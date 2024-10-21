@@ -3,7 +3,7 @@ layout: archive
 title: News archive
 description: Browse past news and updates related to the DynaMIT project
 background: /assets/theme/images/NorthernLightISS3.jpg
-permalink: /blog/
+permalink: /news-archive/
 ---
 
 <!-- Comment the text below using ctrl+' -->
