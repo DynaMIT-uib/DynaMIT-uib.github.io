@@ -31,9 +31,9 @@
       </div>
     </div>
     {% if page.background.img and page.background.by %}
-      <div class="caption d-print-none">
+      <div class="caption d-print-none" style="color: #bebbbb;"> <!-- Light gray color -->
         {% if page.background.href %}
-          Image by <a href="{{ page.background.href }}">{{ page.background.by }}</a>
+          Image by <a href="{{ page.background.href }}" style="color: #bebbbb;">{{ page.background.by }}</a>
         {% else %}
           Image by {{ page.background.by }}
         {% endif %}
