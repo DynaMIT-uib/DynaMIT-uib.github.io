@@ -3,15 +3,15 @@
 - text: Home # Note that users can also reach the homepage by clicking the site's title on the left in the navbar
   href: /
 - text: Team
-  href: /team/
+  href: /Team/
 - text: Code
-  href: /code/
+  href: /Code/
 - text: Publications
   href: /Publications/
 - text: Related Projects
-  href: /Projects/
+  href: /Related-Projects/
 - text: News Archive
-  href: /blog/
+  href: /News-Archive/
 # - text: Documentation
 #   menu: # Dropdown menu (one level deep only)
 #   - text: Installation
