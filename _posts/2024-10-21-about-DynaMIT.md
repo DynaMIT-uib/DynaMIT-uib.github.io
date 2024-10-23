@@ -9,9 +9,9 @@ tags: []
 custom_css: |
   .header {
       background-image: url('/assets/theme/images/Logo.jpg');
-      background-size: cover;
-      background-position: center 30%;
-      height: 30px;
+      background-size: contain; /* Ensures the entire logo is visible */
+      background-position: center;
+      height: 300px;
   }
   .header::before {
     content: "";
