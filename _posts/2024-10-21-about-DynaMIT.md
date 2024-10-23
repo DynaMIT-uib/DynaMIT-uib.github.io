@@ -11,7 +11,7 @@ custom_css: |
       background-image: url('/assets/theme/images/Logo.jpg');
       background-size: cover;
       background-position: center 30%;
-      height: 300px;
+      height: 30px;
   }
   .header::before {
     content: "";

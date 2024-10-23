@@ -14,11 +14,4 @@ DynaMIT takes a dynamic approach to magnetosphere-ionosphere-thermosphere coupli
 
 Read more about the DynaMIT project [here](https://dynamit-uib.github.io/news-archive/2024/about-dynamit).
 
-
-<!-- ## Installation
-
-See the demo website for instructions:
-
-- [Installation]({{ '/docs/installation/' | relative_url }})
-- [Configuration]({{ '/docs/configuration/' | relative_url }})
-- [Markdown]({{ '/docs/markdown/' | relative_url }}) -->
+<!-- The additional text located after the 2 post cards on the home page has been added to _layouts/home.html -->
