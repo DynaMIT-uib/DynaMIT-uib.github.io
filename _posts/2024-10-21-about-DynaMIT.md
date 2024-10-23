@@ -10,7 +10,7 @@ custom_css: |
   .header {
       background-image: url('/assets/theme/images/Logo.jpg');
       # background-size: contain; /* Ensures the entire logo is visible */
-      background-size: cover
+      background-size: contain;
       background-position: center;
       height: 800px;
   }
