@@ -2,7 +2,7 @@
 
 team:
   - name: Karl M. Laundal 
-    role: PI, research professor # Will appear next to name
+    role: PI, Associate Professor, University of Bergen # Will appear next to name
     image: assets/theme/images/Kalle_square400_400.jpg # Can be external link
     description: > # Can be Markdown
       Key words: Magnetosphere/ionosphere physics, magnetosphere-ionosphere coupling, data analysis, model development, EZIE, EISCAT3D
@@ -15,7 +15,7 @@ team:
     email: Karl.Laundal@uib.no
 
   - name: Fasil T. Kebede
-    role: Researcher
+    role: Researcher, University of Bergen
     image: assets/theme/images/Fasil.png # Can be external link
     description: >
       Key words: Magnetosphere/ionosphere, data analysis, data assimilation
@@ -30,7 +30,7 @@ team:
     email: fasil.kebede@uib.no
 
   - name: Beatrice Popescu Braileanu
-    role: Researcher
+    role: Researcher, University of Bergen
     image: assets/theme/images/beatrice.jpg # Can be external link
     description: >
       Solar physics, magnetosphere/ionosphere, model development
@@ -39,7 +39,7 @@ team:
     email: beatrice.braileanu@uib.no
       
   - name: Andreas Sæther Skeidsvoll
-    role: Researcher
+    role: Researcher, University of Bergen
     image: assets/theme/images/Andreas.jpg # Can be external link
     description: >
       Magnetosphere/ionosphere, model development
@@ -47,18 +47,18 @@ team:
     email: andreas.skeidsvoll@uib.no
 
   - name: Michael Madelaire
-    role: Post-doc
+    role: Post-doc, University of Bergen
     image: assets/theme/images/Michael2.jpg # Can be external link
     description: >
-      Magnetosphere/ionosphere, data analysis, data assimilation, EZIE, Danish
+      Magnetosphere/ionosphere, data analysis, data assimilation, EZIE
     orcid: 0000-0002-5631-7344
     email: michael.madelaire@uib.no
 
   - name: Margot Decotte
-    role: Researcher
+    role: Researcher, University of Bergen
     image: assets/theme/images/Margot.jpg # Can be external link
     description: >
-      Key words: Magnetosphere/ionosphere coupling, data analysis, data assimilation, aurora, Sacrebleu  
+      Key words: Magnetosphere/ionosphere coupling, data analysis, data assimilation, aurora  
 
 
       Margot completed her PhD at the University of Bergen under the supervision of Karl M. Laundal, graduating in June 2024.
@@ -67,7 +67,7 @@ team:
     email: margot.decotte@uib.no
 
   - name: Spencer Hatch
-    role: Researcher
+    role: Researcher, University of Bergen
     image: assets/theme/images/Spencer.jpg # Can be external link
     description: >
       Magnetosphere/ionosphere, data analysis, data assimilation, EISCAT3D
@@ -79,7 +79,7 @@ team:
 
 associations:
   - name: Hilde Nesse
-    role: Associate professor at University of Bergen
+    role: Associate professor, University of Bergen
     image: assets/theme/images/HildeNesse.jpg
     description: >
       Magnetosphere/ionosphere physics, energetic particle precipitation
@@ -88,7 +88,7 @@ associations:
     #email: hilde.nesse@uib.no
 
   - name: Kjellmar Oksavik
-    role: Professor at University of Bergen
+    role: Professor, University of Bergen
     image: assets/theme/images/Kjellmar.jpg
     description: >
       Magnetosphere/ionosphere physics, EISCAT3D, SMILE
@@ -97,34 +97,50 @@ associations:
     #email: kjellmar.oksavik@uib.no
 
   - name: Norah Kaggwa Kwagala
-    role: Researcher at University of Bergen
+    role: Researcher, University of Bergen
     image: assets/theme/images/Norah.jpg
     description: >
-      ...
+      Magnetospheric physics, MHD simulations
 
   - name: Heikki Vanhamäki
-    role: Researcher at University of Oulou
-    image: assets/theme/images/King.jpg
+    role: Researcher, University of Oulou
+    image: #assets/theme/images/King.jpg
     description: >
-      ...
+      Ionospheric physics, data analysis, modeling, magnetosphere-ionosphere coupling
     orcid: 0000-0003-4789-8084
     googlescholar: 
 
-  - name: Jesper Gjerloev
-    role: ... at Johns Hopkins Applied Physics Laboratory 
-    image: assets/theme/images/Jesper.jpg
-    description: >
-      ...
-    googlescholar: 0Myw0qIAAAAJ
-
   - name: Minna Palmroth
-    role: Professor at University of Helsinki 
+    role: Professor, University of Helsinki 
     image: assets/theme/images/Minna.jpeg
     description: >
-      ...
+      Magnetospheric physics, modeling
     orcid: 0000-0003-4857-1227
     googlescholar: ZeeJanwAAAAJ
     # email: minna.palmroth@helsinki.fi
+
+  - name: Matt Zettergren
+    role: Professor, Embry-Riddle Aeronautical University
+    image: https://webforms.erau.edu/common/services/peoplesearch/img/ZETTERGM.jpg
+    description: >
+      Ionospheric modeling
+    orcid: 0000-0002-9837-059X
+    googlescholar: tMhU3x8AAAAJ
+
+  - name: Slava Merkin
+    role: Johns Hopkins Applied Physics Laboratory 
+    image: https://www.jhuapl.edu/sites/default/files/2024-02/Staff_bio_Viacheslav_Merkin.jpeg
+    description: >
+      Magnetospheric modeling, magnetosphere-ionosphere coupling
+    orcid: 0000-0003-4344-5424
+    googlescholar: wMTTJ1cAAAAJ
+
+  - name: Jesper Gjerloev
+    role: Johns Hopkins Applied Physics Laboratory 
+    image: assets/theme/images/Jesper.jpg
+    description: >
+      Magnetosphere/ionosphere, data analysis
+    googlescholar: 0Myw0qIAAAAJ
 
 
 # extassociations:

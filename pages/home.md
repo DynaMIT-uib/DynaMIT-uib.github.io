@@ -8,10 +8,10 @@ permalink: /
 
 ### **How is Earth's atmosphere dynamically coupled to space?**
 
-The DynaMIT project challenges the long-held assumption that the ionosphere is in a steady state. This static view limits our ability to fully understand the intricate interplay between the atmosphere and space plasma and resulting phenomena such as the aurora. 
+DynaMIT is an ERC-funded project that explores the dynamic coupling between Earth’s atmosphere and space. We move beyond traditional steady-state electric circuit models, which limit our understanding of the complex interplay between the atmosphere, space plasma, and phenomena such as the aurora.
 
-DynaMIT takes a dynamic approach to magnetosphere-ionosphere-thermosphere coupling. Using first principles, we model the interactions between the neutral atmosphere, plasma, and electromagnetic fields.
+DynaMIT takes a dynamic, first-principles approach to magnetosphere-ionosphere-thermosphere coupling, modeling the interactions between the neutral atmosphere, plasma, and electromagnetic fields. By advancing our theoretical understanding, we also aim to better interpret observational data and uncover the physical mechanisms behind the variability we observe in near-Earth space.
 
-Read more about the DynaMIT project [here](https://dynamit-uib.github.io/news-archive/2024/about-dynamit).
+See the DynaMIT project page at ERC [webpage](https://cordis.europa.eu/project/id/101086985).
 
 <!-- The additional text located after the 2 post cards on the home page has been added to _layouts/home.html -->
