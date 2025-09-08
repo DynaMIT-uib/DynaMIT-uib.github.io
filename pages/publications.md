@@ -6,7 +6,11 @@ permalink: /publications/
 ---
 
 <!-- To do: find out how to open link in a new page  -->
+- B. Popescu Braileanu and R. Keppens (2025), **Coronal rain formation in a two-fluid approximation.** *Astronomy & Astrophysics*, [https://doi.org/10.1051/0004-6361/202554712](https://doi.org/10.1051/0004-6361/202554712)
 
+- C.M. van Hazendonk,L. Baddeley, K.M. Laundal, D.A. Lorentzen (2025). **A statistical study of optical signatures of high-latitude Pc5 waves.** *Journal of Atmospheric and Solar-Terrestrial Physics*, [https://doi.org/10.1016/j.jastp.2025.106585](https://doi.org/10.1016/j.jastp.2025.106585)
+
+- Grandin, M., Ledvina, V.E., Musset, S. et al. (2025) **Citizen Science in Space and Atmospheric Sciences: Opportunities and Challenges.** *Surv Geophys*, [https://doi.org/10.1007/s10712-025-09888-6](https://doi.org/10.1007/s10712-025-09888-6)
 
 - Laundal, K. M., Hatch, S. M., Reistad, J. P., Ohma, A., Tenfjord, P., & Madelaire, M. (2024). **How the ionosphere responds dynamically to magnetospheric forcing.** *Geophysical Research Letters*, 51, e2024GL108695. [https://doi.org/10.1029/2024GL108695](https://doi.org/10.1029/2024GL108695)
 
